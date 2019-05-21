@@ -122,22 +122,24 @@ export default {
         // },
         {
           title: 'React Native Developer',
-          description: 'React Native Developer is one of the key positions here at Kroon Studio, and the one we give a lot of attention. Given the fact that we provide design and development services, React Native Developer is a person that combines the two and makes sure, that art and technology come together in perfect harmony.',
+          description: 'We are looking for experienced React Native colleagues or native mobile developers (Java Android or Objective-C) who are ready to set their sails towards the React Native shores.',
           inChargeOf: [
             'General responsibility to design, develop, test and document software for current and new products',
-            'Build applications for iOS and Android platforms using cross-platform frameworks',
-            'Develop new user-facing features',
-            'Build reusable code and libraries for future use',
-            'Ensure the technical feasibility of UI / UX designs',
-            'Optimize application for maximum speed and scalability',
-            'Collaborate with other team members and stakeholders'
+            'Design and build applications for iOS and Android platforms using cross-platform frameworks',
+            'Collaborate with a team to design, develop and ship new features',
+            'Identify and correct bottlenecks and fix bugs',
+            'Help maintain code quality, organization, and automatization'
           ],
           skills: [
-            'Previous experience with React / ReactNative',
+            'BS/MS in Computing Science or similar majors',
+            '1+ years of experience developing React Native apps',
             'In-depth understanding of Javascript programming and familiar with ES6',
+            'Experience with native mobile development on Android or iOS',
             'Familiarity with RESTful APIs or similar technologies to interface iOS/Android applications with back-end services',
             'Proficient understanding of code versioning tools such as Git and the associated best practices',
-            'Good verbal & written communications skills'
+            'Experience with other Cross platform frameworks such as Xamarin, Flutter, NativeScript, Corona or similar is a plus',
+            'Good verbal & written communications skills',
+
           ],
           apply: 'Please send your resume to contact@kroonstudio.com with subject line ReactNative. Would be nice that your CV contains links to project you\'ve worked on, with descriptions of your responsibilities.'
         },
