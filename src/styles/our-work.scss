@@ -84,6 +84,18 @@
         }
       }
     }
+    .featured-wrapper {
+      margin-top: 80px;
+      p {
+        max-width: 650px;
+        margin: 0 auto;
+        font-size: 16px;
+        a {
+          color: #333;
+          text-decoration: underline;
+        }
+      }
+    }
   }
 }
 

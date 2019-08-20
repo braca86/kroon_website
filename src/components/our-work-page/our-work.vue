@@ -57,6 +57,18 @@
           </div>
         </div>
         <div class="row">
+          <div class="col-12 featured-wrapper">
+            <p>
+              Featured as Top Development Agency by DesignRush in the following categories: 
+              <a href="https://www.softwaredevelopmentcompany.co/software-development-companies/" target="_blank">Top Software Development Companies</a>, 
+              <a href="https://www.softwaredevelopmentcompany.co/custom-software-development-companies/" target="_blank">Custom Software Development Companies</a>, 
+              <a href="https://www.softwaredevelopmentcompany.co/php-development-companies/" target="_blank">PHP Development Companies</a>, 
+              <a href="https://www.softwaredevelopmentcompany.co/software-development-outsourcing/" target="_blank">Software Development Outsourcing</a>, 
+              <a href="https://www.softwaredevelopmentcompany.co/enterprise-software-development-companies/" target="_blank">Enterprise Software Development Companies</a>.
+            </p>
+          </div>
+        </div>
+        <div class="row">
           <div class="col-12">
             <shared-footer />
           </div>

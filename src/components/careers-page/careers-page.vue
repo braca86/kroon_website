@@ -45,7 +45,7 @@
 </template>
 
 <script>
-import JobInfo from './components/job-info.component'
+import JobInfo from './components/job-info.component.vue'
 export default {
   name: 'careers-page',
   components: {
